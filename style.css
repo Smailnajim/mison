@@ -1,0 +1,24 @@
+.container {
+    background-color: cornflowerblue;
+    display: flex;
+    flex-direction: column;
+    gap: 2vh;
+}
+
+header {
+    text-align: center;
+}
+
+.line {
+    display: flex;
+    justify-content: space-between;
+}
+
+.coitionInLine {
+    display: flex;
+    flex-direction: column;
+}
+
+.jbd {
+    width: 100%;
+}
